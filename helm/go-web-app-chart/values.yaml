@@ -4,7 +4,7 @@ image:
   repository: samarthr8/go-we-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1"
+  tag: "11702394012"
 
 ingress:
   enabled: false
